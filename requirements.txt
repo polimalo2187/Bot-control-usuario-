@@ -1,2 +1,8 @@
-python-telegram-bot==20.5
-pymongo[srv]==4.5.0
+# Archivo: requirements.txt
+
+# Python version para Raiwan / Raybond
+python==3.11.0  # Equivalente a la versión 20.5 de Raiwan
+
+# Librerías necesarias
+aiogram>=3.1.2
+pymongo>=4.3.3
