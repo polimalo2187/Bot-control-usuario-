@@ -1,7 +1,2 @@
-# Archivo: requirements.txt
-
-# Este archivo es solo para paquetes de Python
-# La versión de Python (20.5) se selecciona en Raiwan
-
 aiogram>=3.1.2
 pymongo>=4.3.3
