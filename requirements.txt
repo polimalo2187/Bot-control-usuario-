@@ -1,0 +1,6 @@
+# Versión de Python recomendada
+python>=3.11
+
+# Librerías necesarias para el bot
+python-telegram-bot>=20.5
+pymongo>=4.5.0
