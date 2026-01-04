@@ -1,3 +1,2 @@
-# Librerías necesarias para el bot de Telegram
-python-telegram-bot>=20.5
-pymongo>=4.5.0
+python-telegram-bot==20.5
+pymongo==4.5.1
